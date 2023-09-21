@@ -216,7 +216,7 @@ def gate3():
         # print(gate)
         value = request.form.get('value')
         # reqUrl = f"https://CVV-{gate}.up.railway.app/runserver/"
-        reqUrl = "https://backend-01.up.railway.app/runserver/"
+        reqUrl = "htts://74.82.29.208:8585/runserver/"
         headersList = {
         "Accept": "*/*",
         "User-Agent": "Thunder Client (https://www.thunderclient.com)",
